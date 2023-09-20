@@ -1,5 +1,9 @@
 .fa-github:hover {
-  color: #ffc380!important;
+  color: #ffc380 !important;
+}
+
+.book:hover {
+  color: white !important;
 }
 
 body {
@@ -9,3 +13,47 @@ body {
 .navbar-brand {
   color: #ffc380 !important;
   }
+
+.text-brand {
+  color: #ffc380 !important;
+}
+
+.womd {
+  color: #fffd8f
+}
+
+.geb {
+  color: #a2703a
+}
+
+.flop {
+  color: #df3131
+}
+
+.aaa {
+  color: #5ec4ea
+}
+
+.mod {
+  color: #907487
+}
+
+.mod-light {
+  color: #ab92e1
+}
+
+.uavsi {
+  color: #629699
+}
+
+.uavsi-light {
+  color: #98c0c2
+}
+
+.psl {
+  color:#E4003B
+}
+
+.psc {
+  color:#0087DC
+}
