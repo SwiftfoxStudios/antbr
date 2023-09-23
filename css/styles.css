@@ -2,6 +2,10 @@
   color: #ffc380 !important;
 }
 
+.fab:hover {
+  color: #fff !important
+}
+
 .book:hover {
   color: white !important;
 }
